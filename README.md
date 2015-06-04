@@ -1,0 +1,1 @@
+A proof of concept demonstrating how you can handle RPC calls through message queueing patterns.
